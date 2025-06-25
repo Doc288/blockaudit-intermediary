@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node intermediary_api.js"
   },
-  "author": "",
+  "author": "XYZ",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
