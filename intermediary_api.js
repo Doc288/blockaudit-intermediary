@@ -1,4 +1,4 @@
-npm install express cors// intermediary_api.js
+// intermediary_api.js
 const express = require('express');
 const cors = require('cors');
 
